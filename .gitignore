@@ -1,0 +1,9 @@
+# Nginx 可执行文件
+nginx.exe
+# 日志文件
+*.log
+# 临时目录
+temp/
+# 依赖包与构建产物（如果是前端项目）
+node_modules/
+dist/
